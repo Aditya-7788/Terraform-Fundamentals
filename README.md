@@ -212,3 +212,6 @@ aws s3api put-bucket-versioning --bucket <your-unique-bucket-name> --versioning-
 - `.gitignore` excludes `.terraform/`, `*.tfstate`, `*.tfstate.*`, `*.tfvars`, `*.pem`, `*.key` and `.env`.
 - `.terraform.lock.hcl` **is** committed because it only holds version information.
 - `terraform destroy` was run after every lab so no resources are left running.
+
+
+![alt text](<Screenshot 2026-11-23 235308.png>) ![alt text](<Screenshot 2026-11-23 235853.png>) ![alt text](<Screenshot 2026-11-24 000908.png>) ![alt text](<Screenshot 2026-11-24 001517.png>) ![alt text](<Screenshot 2026-11-24 002127.png>) ![alt text](<Screenshot 2026-11-24 002730.png>) ![alt text](<Screenshot 2026-11-24 002746.png>) ![alt text](<Screenshot 2026-11-24 003257.png>) ![alt text](<Screenshot 2026-11-24 004038.png>) ![alt text](<Screenshot 2026-11-24 004331.png>) ![alt text](<Screenshot 2026-11-24 004341.png>)
